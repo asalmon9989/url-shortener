@@ -1,0 +1,24 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "URL shortener project from Free-Code-Camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asalmon9989/url-shortener.git"
+  },
+  "author": "Andy Salmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asalmon9989/url-shortener/issues"
+  },
+  "homepage": "https://github.com/asalmon9989/url-shortener#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "valid-url": "^1.0.9"
+  }
+}
